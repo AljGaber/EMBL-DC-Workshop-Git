@@ -7,4 +7,5 @@ weight_kg <- 57
 
 weight_lb <-  2.2 * weight_kg
 
+sqrt(weight_kg)
 
